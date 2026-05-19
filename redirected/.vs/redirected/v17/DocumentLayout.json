@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\redirected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|c:\\redirected\\assets\\script\\pitch_distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pitch_distance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|c:\\redirected\\assets\\script\\pitch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pitch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\speed10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\speed10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF79E0A-2E34-62B5-3181-20930EEB8674}|SteamVR.csproj|C:\\redirected\\assets\\steamvr\\plugins\\openvr_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF79E0A-2E34-62B5-3181-20930EEB8674}|SteamVR.csproj|solutionrelative:assets\\steamvr\\plugins\\openvr_api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\cam_pitch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cam_pitch3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\pitch0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pitch0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\sight_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sight_0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\speed6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\speed6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\sight_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sight_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\showevaluationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\showevaluationimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|C:\\redirected\\assets\\script\\pitch5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7FCEF9-011C-E0F5-5E59-4B357277E32B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pitch5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF79E0A-2E34-62B5-3181-20930EEB8674}|SteamVR.csproj|C:\\redirected\\assets\\steamvr\\scripts\\steamvr_playarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF79E0A-2E34-62B5-3181-20930EEB8674}|SteamVR.csproj|solutionrelative:assets\\steamvr\\scripts\\steamvr_playarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pitch_distance.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\pitch_distance.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\pitch_distance.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\pitch_distance.cs",
+              "RelativeToolTip": "Assets\\script\\pitch_distance.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:56:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "openvr_api.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\SteamVR\\Plugins\\openvr_api.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Plugins\\openvr_api.cs",
+              "ToolTip": "C:\\redirected\\Assets\\SteamVR\\Plugins\\openvr_api.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Plugins\\openvr_api.cs",
+              "ViewState": "AQIAAJgdAAAAAAAAAAAmwKkdAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:42:12.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMeshSurface.cs",
+              "DocumentMoniker": "C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs",
+              "ToolTip": "C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshSurface.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T03:12:40.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMeshLink.cs",
+              "DocumentMoniker": "C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs",
+              "ToolTip": "C:\\redirected\\Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@2.0.8\\Runtime\\NavMeshLink.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAnwO0AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:19:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cam_pitch3.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\cam_pitch3.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\cam_pitch3.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\cam_pitch3.cs",
+              "RelativeToolTip": "Assets\\script\\cam_pitch3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T08:36:22.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sight_1.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\sight_1.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\sight_1.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\sight_1.cs",
+              "RelativeToolTip": "Assets\\script\\sight_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:30:53.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowEvaluationImage.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\ShowEvaluationImage.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ShowEvaluationImage.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\ShowEvaluationImage.cs",
+              "RelativeToolTip": "Assets\\script\\ShowEvaluationImage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:56:12.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sight_0.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\sight_0.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\sight_0.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\sight_0.cs",
+              "RelativeToolTip": "Assets\\script\\sight_0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:25:01.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "speed6.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\speed6.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\speed6.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\speed6.cs",
+              "RelativeToolTip": "Assets\\script\\speed6.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAAOYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:14:33.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "speed10.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\speed10.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\speed10.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\speed10.cs",
+              "RelativeToolTip": "Assets\\script\\speed10.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAUwGgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:13:29.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pitch0.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\pitch0.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\pitch0.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\pitch0.cs",
+              "RelativeToolTip": "Assets\\script\\pitch0.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:15:49.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pitch3.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\pitch3.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\pitch3.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\pitch3.cs",
+              "RelativeToolTip": "Assets\\script\\pitch3.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAjwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:13:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "pitch5.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\script\\pitch5.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\pitch5.cs",
+              "ToolTip": "C:\\redirected\\Assets\\script\\pitch5.cs",
+              "RelativeToolTip": "Assets\\script\\pitch5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:15:40.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SteamVR_PlayArea.cs",
+              "DocumentMoniker": "C:\\redirected\\Assets\\SteamVR\\Scripts\\SteamVR_PlayArea.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Scripts\\SteamVR_PlayArea.cs",
+              "ToolTip": "C:\\redirected\\Assets\\SteamVR\\Scripts\\SteamVR_PlayArea.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Scripts\\SteamVR_PlayArea.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAgwAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:13:15.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
